@@ -1,0 +1,13 @@
+[
+  { "results":[
+      { "medal":"G", "result":9.81 },
+      { "medal":"G", "result":9.69 },
+      { "medal":"G", "result":9.63 },
+      { "medal":"G", "result":19.78 },
+      { "medal":"G", "result":"19.30,-0.9" },
+      { "medal":"G", "result":19.32 }
+    ] },
+  { "run types":[ "100M Men", "200M Men" ] },
+  { "years":[ 2016, 2008, 2012 ] },
+  { "locations":[ "Rio", "Beijing", "London" ] }
+]

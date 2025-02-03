@@ -1,0 +1,2016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<womenMedals xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="WomenMedals.xsd">
+    <medalCounter>
+        <name>Almaz Ayana</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Vivian Jepkemoi Cheruiyot</name>
+        <count>4</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tirunesh Dibaba</name>
+        <count>6</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Elvan Abeylegesse</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Shalane Flanagan</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Derartu Tulu</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Gete Wami</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Fernanda Ribeiro</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Elana Meyer</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lynn Jennings</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sally Jepkosgei Kipyego</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Huina Xing</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ejegayehu Dibaba</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Junxia Wang</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Brianna Rollins</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nia Ali</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kristi Castlin</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Dawn Harper</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sally Pearson</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Priscilla Lopes-schliep</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Olga Shishigina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Gloria Alozie</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Melissa Morrison</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Voula Patoulidou</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lavonna Martin</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yordanka Donkova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Benita Fitzgerald-brown</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Shirley Strong</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Michèle Chardonnet</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kim Turner</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Johanna Schaller-klier</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatiana Anisimova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Natalya Lebedeva</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kellie Wells</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Joanna Hayes</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Olena Krasovska</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ludmila Engquist</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Brigita Bukovec</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Patricia Girard</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Vera Komisova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lucyna Langer</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Annelie Ehrhardt</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Valeria Bufanu</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Karin Richert-balzer</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Elaine Thompson</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tori Bowie</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Shelly-ann Fraser-pryce</name>
+        <count>4</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sherone Simpson</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kerron Stewart</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ekaterini Thanou</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tanya Lawrence</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Merlene Ottey</name>
+        <count>7</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Gail Devers</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Juliet Cuthbert</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Irina Privalova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Evelyn Ashford</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Alice Brown</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Annegret Richter-irrgang</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Renate Stecher</name>
+        <count>4</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Inge Helten</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Wyomia Tyus</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Barbara Ferrell</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Irena Kirszenstein</name>
+        <count>6</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Wilma Rudolph</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Dorothy Hyman</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Giuseppina Leone</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Marjorie Jackson</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Daphne Hasenjager</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Shirley Strickland</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Helen Stephens</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Stanislawa Walasiewicz</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Käthe Krauss</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Elizabeth Robinson</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Fanny Rosenfeld</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ethel Smith</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Carmelita Jeter</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Veronica Campbell-brown</name>
+        <count>4</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yuliya Nestsiarenka</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lauryn Williams</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Gwen Torrence</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lyudmila Kondratyeva</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Marlies Oelsner-göhr</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ingrid Auerswald-lange</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Raelene Ann Boyle</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Silvia Chivas Baro</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Edith Mcguire</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ewa Klobukowska</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Betty Cuthbert</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Christa Stubnick</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Marlene Mathews-willard</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Fanny Blankers-koen</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Dorothy Hall</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Hilda Strike</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Wilhelmina Von Bremen</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Faith Chepngetich Kipyegon</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Genzebe Dibaba</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jennifer Simpson</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nancy Jebet Lagat</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Iryna Lishchynska</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nataliya Tobias</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nouria Merah-benida</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Violeta Szekely</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Gabriela Szabo</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Hassiba Boulmerka</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lyudmila Rogachova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yunxia Qu</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Gabriella Dorio</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Doina Melinte</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maricica Puica</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatiana Kazankina</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Gunhild Hoffmeister</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ulrike Klapezynski-bruns</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Gamze Bulut</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maryam Yusuf Jamal</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kelly Holmes</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatyana Tomashova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maria Cioncan</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Svetlana Masterkova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Theresia Kiesl</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Christiane Stoll-wartenberg</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nadezhda Olizarenko</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lyudmila Bragina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Paola Pigni-cacchi</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Dafne Schippers</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Allyson Felix</name>
+        <count>4</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Pauline Davis</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Susanthika Jayasinghe</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Beverly Mcdonald</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Valerie Brisco</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Florence Griffith Joyner</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Bärbel Eckert-wöckel</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jennifer Lamy</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jutta Heine</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Bertha Brouwer</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nadezhda Khnykina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Debbie Ferguson-mckenzie</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Marie-josé Pérec</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Mary Onyali</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Natalia Bochina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Marilyn Black</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Audrey Williamson</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Audrey Patterson</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Hong Liu</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maria Guadalupe Gonzalez</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Xiuzhi Lu</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Olga Kaniskina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kjersti Plaetzer</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Elisa Rigaudo</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Liping Wang</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maria Vasco</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Elena Lashmanova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Shenjie Qieyang</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Athanasia Tsoumeleka</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Olimpiada Ivanova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jane Saville</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ruth Jebet</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Hyvin Kiyeng Jepkemoi</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Emma Coburn</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Gulnara Samitova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Eunice Jepkorir</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Habiba Ghribi</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sofia Assefa</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Milcah Chemos Cheywa</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Dalilah Muhammad</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sara Slott Petersen</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ashley Spencer</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Melaine Walker</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sheena Tosta</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Natasha Danvers</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Deon Marie Hemmings</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nezha Bidouane</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sally Gunnell</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sandra Farmer-patrick</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Janeene Vickers</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nawal El Moutawakel</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Judi Brown</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Cristina Cojocaru</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Natalya Antyukh</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lashinda Demus</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Zuzana Hejnova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Fani Khalkia</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ionela Tirlea</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tetyana Tereshchuk</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kim Batten</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tonja Buford-bailey</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Shaunae Miller</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Shericka Jackson</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Christine Ohuruogu</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Shericka Williams</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sanya Richards-ross</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Cathy Freeman</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lorraine Fenton</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Katharine Merry</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Olga Bryzgina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ximena Restrepo</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Chandra Cheeseborough</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kathryn Smallwood-cook</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Christina Brehmer-lathan</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ellen Stropahl-streidt</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Colette Besson</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lillian Board</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Natalya Chistyakova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Deedee Trotter</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tonique Williams-darling</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ana Guevara</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Falilat Ogunkoya</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Marita Koch</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jarmila Kratohvilova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Monika Zehrt</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Rita Jahn</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kathleen Hammond</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ann Packer</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Judith Florence Amoore-pollock</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Hellen Onsando Obiri</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Meseret Defar</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sonia O'sullivan</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Isabella Ochichi</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Pauline Konga</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Roberta Brunet</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Caster Semenya</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Francine Niyonsaba</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Margaret Nyairera Wambui</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Pamela Jelimo</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Janeth Jepkosgei Busienei</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Hasna Benhassi</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maria Mutola</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Stephanie Graf</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ellen Van Langen</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Liliya Nurutdinova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ana Fidelia Quirot</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kim Gallagher</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Fita Lovin</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nikolina Chtereva</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Elfi Zinn</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Madeline Manning-jackson</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ileana Silai</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maria Gommers</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lyudmila Shevtsova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Brenda Jones</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ursula Donath</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Mariya Savinova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ekaterina Poistogova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jolanda Ceplak</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Olga Mineeva</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatiana Providokhina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Hildegard Falck</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Niole Sabaite</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maryvonne Dupureur</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ann Marise Chamberlain</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Karoline "lina" Radke</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kinue Hitomi</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Inga Gentzel</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sandra Perkovic</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Melina Robert-michon</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Denia Caballero</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Stephanie Brown Trafton</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Olena Antonova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ellina Zvereva</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Anastasia Kelesidou</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Iryna Yatchenko</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maritza Marten</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tsvetanka Khristova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Daniela Costian</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ria Stalman</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Leslie Deniz</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Florenta Craciunescu</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lia Manoliu</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Liesel Westermann</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jolan Kleiber-kontsek</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nina Romashkova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tamara Press</name>
+        <count>4</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yelizaveta Bagryantseva</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nina Dumbadze</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Gisela Mauermayer</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jadwiga Wajs</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Paula Mollenhauer</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Halina Konopacka</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lillian Copeland</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ruth Svedberg</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yanfeng Li</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yarelys Barrios</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Natalya Sadova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Vera Pospisilova-cechlova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ilke Wyludda</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Evelin Schlaak-jahl</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maria Vergova-petkova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatiana Lesovaia</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Faina Melnik</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Argentina Menis</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Vassilka Stoeva</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ingrid Lotz</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Micheline Ostermeyer</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Edera Cordiale-gentile</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jacqueline Mazeas</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ruth Osburn</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Anita Wlodarczyk</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Wenxiu Zhang</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sophie Hitchon</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yipsi Moreno</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Manuela Montebrun</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kamila Skolimowska</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Olga Kuzenkova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kirsten Münchow</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Betty Heidler</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yunaika Crawford</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nafissatou Thiam</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jessica Ennis Hill</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Brianne Theisen Eaton</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Natallia Dobrynska</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Hyleas Fountain</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatyana Chernova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Denise Lewis</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yelena Prokhorova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Natalya Sazanovich</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jackie Joyner</name>
+        <count>5</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Irina Belova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sabine Braun</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Glynis Nunn</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sabine Everts</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lilli Schwarzkopf</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Carolina Kluft</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Austra Skujyte</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kelly Sotherton</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ghada Shouaa</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sabine John</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Anke Behmer</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ruth Beitia</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Mirela Demireva</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Blanka Vlasic</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tia Hellebaut</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yelena Yelesina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Hestrie Cloete</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kajsa Bergqvist</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Oana Pantelimon</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Heike Henkel</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Galina Astafei</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Joanet Quintero</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Rosemarie Witschas-ackermann</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sara Simeoni</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yordanka Blagoeva-dimitrova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Iolanda Balas</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Dorothy Shirley</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jaroslawa Józwiakowska</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Esther Brand</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sheila Lerwill</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Aleksandra Chudina</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ibolya Csák</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Dorothy Odam</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Elfriede Kaun</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Anna Chicherova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Brigetta Barrett</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Svetlana Shkolina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Elena Slesarenko</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Vita Styopina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Stefka Kostadinova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Niki Bakogianni</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Inha Babakova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Urszula Kielan</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jutta Kirst</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Michele Brown</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Taisiya Chenchik</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Alice Coachman</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jean Shiley</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Mildred Didrikson</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Eva Dawes</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sara Kolak</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sunette Viljoen</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Barbora Spotakova</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Christina Obergfoll</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Trine Hattestad</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Mirela Maniani</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Osleidys Menéndez</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Silke Renk</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Natalia Shikolenko</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Karen Forkel</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ruth Fuchs</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Marion Becker-steiner</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kathryn Joan Schmidt</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Angela Nemeth</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Mihaela Penes</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Eva Janko-egger</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Elvira Ozolina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Dana Ingrova-zatopkova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Birute Kalediene</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yelena Gorchakova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tilly Fleischer</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Luise Krüger</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maria Kwasniewska</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Linda Stahl</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Steffi Nerius</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Heli Rantanen</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Louise Mcpaul</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maria Colon</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Saida Gunba</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ute Hommola</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jacqueline Todten</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Marta Antal-rudas</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Herma Bauma</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kaisa Parviainen</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lily Carlstedt</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ellen Braumüller</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tianna Bartoletta</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Brittney Reese</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ivana Spanovic</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Maurren Higa Maggi</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Blessing Okagbare</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Heike Drechsler</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Fiona May</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatyana Kotova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Inessa Kravets</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Angela Voigt</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Catherine Laverne Mcmillan</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lidia Alfeeva</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Vera Kolashnikova-krepkina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Elzbieta Krzesinska</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Hildrun Claus</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yvette Williams</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Shirley Cawley</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Elena Sokolova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Janay Deloach</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatyana Lebedeva</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Irina Simagina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Chioma Ajunwa</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatiana Kolpakova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Brigitte Wujak</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatiana Skachko</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Mary Rand</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatyana Shchelkanova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jemima Jelagat Sumgong</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Eunice Jepkirui Kirwa</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Mare Dibaba</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Constantina Tomescu</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Catherine Ndereba</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Chunxiu Zhou</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Naoko Takahashi</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lidia Simon</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Joyce Chepchumba</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Valentina Yegorova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yuko Arimori</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lorraine Moller</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Joan Benoit</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Grete Andersen</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Rosa Mota</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tiki Gelana</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Priscah Jeptoo</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatyana Petrova Arkhipova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Mizuki Noguchi</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Deena Kastor</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Fatuma Roba</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lisa Ondieki</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Katrin Dörre</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ekaterini Stefanidi</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sandi Morris</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Eliza Mccartney</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yelena Isinbaeva</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Jennifer Suhr</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Svetlana Feofanova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Stacy Dragila</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tatiana Grigorieva</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Vala Flosadóttir</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yarisley Silva</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Anna Rogowska</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Michelle Carter</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Valerie Adams</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Anita Marton</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yanina Karolchik</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Larisa Peleshenko</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Astrid Kumbernuss</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Svetlana Krivelyova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Zhihong Huang</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Kathrin Neimke</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Claudia Losch</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Mihaela Loghin</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Gael Martin</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ivanka Khristova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nadezhda Chizhova</name>
+        <count>3</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Helena Fibingerová</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Margitta Helmbold-gummel</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Marita Lange</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Johanna Lüttge</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Earlene Brown</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Galina Zybina</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Marianne Werner</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Klavdiya Tochenova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Lijiao Gong</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yumileidi Cumba</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Nadine Kleinert-schmitt</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Xinmei Sui</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Irina Khudorozhkina</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Ilona Schoknecht-slupianek</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Esfira Dolchenko-krachevskaya</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Margitta Droese-pufe</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Renate Garisch-culmberger-boy</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Caterine Ibarguen</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Yulimar Rojas</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Olga Rypakova</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Francoise Mbango Etone</name>
+        <count>2</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Tereza Marinova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Olena Hovorova</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Olga Saladukha</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Hrysopiyi Devetzi</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Inna Lasovskaya</name>
+        <count>1</count>
+    </medalCounter>
+    <medalCounter>
+        <name>Sarka Kasparkova</name>
+        <count>1</count>
+    </medalCounter>
+</womenMedals>

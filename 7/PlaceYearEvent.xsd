@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    
+    <!-- custom type for the year to restrict the range between 1896 and 2016 -->
+    <xs:simpleType name="OlympicYear">
+        <xs:restriction base="xs:gYear">
+            <xs:minInclusive value="1896"/>
+            <xs:maxInclusive value="2016"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:element name="olympic">
+        <xs:complexType>
+            <xs:sequence>
+                
+                <xs:element name="events">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="event" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="location" type="xs:string"/>
+                                        <xs:element name="year" type="OlympicYear"/>       
+                                        <xs:element name="eventType" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                
+                <xs:element name="locations">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="location" maxOccurs="unbounded" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+</xs:schema>
+

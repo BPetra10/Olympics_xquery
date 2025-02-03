@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Avarage.xsd">
+    <better>
+        <athlete>
+            <name>Tianna BARTOLETTA</name>
+            <difference>0.35</difference>
+        </athlete>
+        <athlete>
+            <name>Brittney REESE</name>
+            <difference>0.33</difference>
+        </athlete>
+        <athlete>
+            <name>Heike DRECHSLER</name>
+            <difference>0.32</difference>
+        </athlete>
+        <athlete>
+            <name>Inessa KRAVETS</name>
+            <difference>0.3</difference>
+        </athlete>
+        <athlete>
+            <name>Brittney REESE</name>
+            <difference>0.3</difference>
+        </athlete>
+        <athlete>
+            <name>Chioma AJUNWA</name>
+            <difference>0.3</difference>
+        </athlete>
+        <athlete>
+            <name>Ivana SPANOVIC</name>
+            <difference>0.26</difference>
+        </athlete>
+        <athlete>
+            <name>Jackie JOYNER</name>
+            <difference>0.25</difference>
+        </athlete>
+        <athlete>
+            <name>Elena SOKOLOVA</name>
+            <difference>0.25</difference>
+        </athlete>
+        <athlete>
+            <name>Tatyana LEBEDEVA</name>
+            <difference>0.25</difference>
+        </athlete>
+        <athlete>
+            <name>Tatiana KOLPAKOVA</name>
+            <difference>0.24</difference>
+        </athlete>
+        <athlete>
+            <name>Irina SIMAGINA</name>
+            <difference>0.23</difference>
+        </athlete>
+        <athlete>
+            <name>Tatyana KOTOVA</name>
+            <difference>0.23</difference>
+        </athlete>
+        <athlete>
+            <name>Maurren Higa MAGGI</name>
+            <difference>0.22</difference>
+        </athlete>
+        <athlete>
+            <name>Brigitte WUJAK</name>
+            <difference>0.22</difference>
+        </athlete>
+        <athlete>
+            <name>Fiona MAY</name>
+            <difference>0.2</difference>
+        </athlete>
+        <athlete>
+            <name>Tatiana SKACHKO</name>
+            <difference>0.19</difference>
+        </athlete>
+        <athlete>
+            <name>Jackie JOYNER</name>
+            <difference>0.18</difference>
+        </athlete>
+        <athlete>
+            <name>Heike DRECHSLER</name>
+            <difference>0.17</difference>
+        </athlete>
+        <athlete>
+            <name>Fiona MAY</name>
+            <difference>0.1</difference>
+        </athlete>
+        <athlete>
+            <name>Blessing OKAGBARE</name>
+            <difference>0.09</difference>
+        </athlete>
+        <athlete>
+            <name>Janay DELOACH</name>
+            <difference>0.07</difference>
+        </athlete>
+        <athlete>
+            <name>Tatyana KOTOVA</name>
+            <difference>0.01</difference>
+        </athlete>
+    </better>
+    <worse>
+        <athlete>
+            <name>Shirley CAWLEY</name>
+            <difference>0.9</difference>
+        </athlete>
+        <athlete>
+            <name>Aleksandra CHUDINA</name>
+            <difference>0.68</difference>
+        </athlete>
+        <athlete>
+            <name>Hildrun CLAUS</name>
+            <difference>0.61</difference>
+        </athlete>
+        <athlete>
+            <name>Yvette WILLIAMS</name>
+            <difference>0.58</difference>
+        </athlete>
+        <athlete>
+            <name>Elzbieta KRZESINSKA</name>
+            <difference>0.55</difference>
+        </athlete>
+        <athlete>
+            <name>Vera KOLASHNIKOVA-KREPKINA</name>
+            <difference>0.45</difference>
+        </athlete>
+        <athlete>
+            <name>Tatyana SHCHELKANOVA</name>
+            <difference>0.4</difference>
+        </athlete>
+        <athlete>
+            <name>Lidia ALFEEVA</name>
+            <difference>0.22</difference>
+        </athlete>
+        <athlete>
+            <name>Irena KIRSZENSTEIN</name>
+            <difference>0.22</difference>
+        </athlete>
+        <athlete>
+            <name>Catherine Laverne MCMILLAN</name>
+            <difference>0.16</difference>
+        </athlete>
+        <athlete>
+            <name>Angela VOIGT</name>
+            <difference>0.1</difference>
+        </athlete>
+        <athlete>
+            <name>Mary RAND</name>
+            <difference>0.06</difference>
+        </athlete>
+    </worse>
+</results>

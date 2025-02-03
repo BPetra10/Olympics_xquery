@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<runs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="FirstLast.xsd">
+    <fastestRunner location="Rio" year="2016">
+        <name>Mohamed FARAH</name>
+        <res>25:05.17</res>
+        <resInSec>1505.017</resInSec>
+    </fastestRunner>
+    <slowestRunner location="Antwerp" year="1920">
+        <name>Paavo NURMI</name>
+        <res>31:45.8</res>
+        <resInSec>1905.008</resInSec>
+    </slowestRunner>
+    <differenceInTime>
+        <differenceInSeconds>399.991</differenceInSeconds>
+        <differenceInMin>6:39.991</differenceInMin>
+    </differenceInTime>
+</runs>

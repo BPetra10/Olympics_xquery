@@ -1,0 +1,4031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<olympic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="PlaceYearEvent.xsd">
+    <events>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Amsterdam</location>
+            <year>1928</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Antwerp</location>
+            <year>1920</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>1896</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>1896</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>1896</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>1896</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>1896</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>1896</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>1896</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>1896</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>1896</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>1896</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>1896</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>1896</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>10000M Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>100M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>1500M Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>20Km Race Walk Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>400M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>4X400M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>5000M Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Hammer Throw Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Heptathlon Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Long Jump Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Marathon Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Pole Vault Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Athens</location>
+            <year>2004</year>
+            <eventType>Triple Jump Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>10000M Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>100M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>1500M Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>400M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>4X400M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>5000M Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Heptathlon Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Long Jump Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Marathon Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Atlanta</location>
+            <year>1996</year>
+            <eventType>Triple Jump Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>10000M Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>100M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>1500M Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>400M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>4X400M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Heptathlon Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Long Jump Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Marathon Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Barcelona</location>
+            <year>1992</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>10000M Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>100M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>1500M Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>20Km Race Walk Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>3000M Steeplechase Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>400M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>4X400M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>5000M Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Hammer Throw Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Heptathlon Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Long Jump Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Marathon Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Pole Vault Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Beijing</location>
+            <year>2008</year>
+            <eventType>Triple Jump Women</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Berlin</location>
+            <year>1936</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Long Jump Women</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Helsinki</location>
+            <year>1952</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1908</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>1948</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>10000M Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>100M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>1500M Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>20Km Race Walk Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>3000M Steeplechase Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>400M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>4X400M Relay Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>5000M Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Hammer Throw Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Heptathlon Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Long Jump Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Marathon Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Pole Vault Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>London</location>
+            <year>2012</year>
+            <eventType>Triple Jump Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1932</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>100M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>1500M Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>400M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>4X400M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>Heptathlon Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>Marathon Women</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Los Angeles</location>
+            <year>1984</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Melbourne / Stockholm</location>
+            <year>1956</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Mexico</location>
+            <year>1968</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>100M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>1500M Women</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>4X400M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>Long Jump Women</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Montreal</location>
+            <year>1976</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>100M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>1500M Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>4X400M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Long Jump Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Moscow</location>
+            <year>1980</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>100M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>1500M Women</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>4X400M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Munich</location>
+            <year>1972</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1900</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Paris</location>
+            <year>1924</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>10000M Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>100M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>1500M Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>20Km Race Walk Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>3000M Steeplechase Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>400M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>4X400M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>5000M Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Hammer Throw Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Heptathlon Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Long Jump Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Marathon Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Pole Vault Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Rio</location>
+            <year>2016</year>
+            <eventType>Triple Jump Women</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Long Jump Women</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Rome</location>
+            <year>1960</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Seoul</location>
+            <year>1988</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Seoul</location>
+            <year>1988</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Seoul</location>
+            <year>1988</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Seoul</location>
+            <year>1988</year>
+            <eventType>Heptathlon Women</eventType>
+        </event>
+        <event>
+            <location>Seoul</location>
+            <year>1988</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Seoul</location>
+            <year>1988</year>
+            <eventType>Marathon Women</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>St Louis</location>
+            <year>1904</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Stockholm</location>
+            <year>1912</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>10000M Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>100M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>1500M Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>20Km Race Walk Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>400M Hurdles Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>4X400M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>5000M Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Hammer Throw Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Heptathlon Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Long Jump Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Marathon Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Pole Vault Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+        <event>
+            <location>Sydney</location>
+            <year>2000</year>
+            <eventType>Triple Jump Women</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>10000M Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>100M Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>100M Women</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>110M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>1500M Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>200M Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>200M Women</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>20Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>3000M Steeplechase Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>400M Hurdles Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>400M Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>400M Women</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>4X100M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>4X100M Relay Women</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>4X400M Relay Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>5000M Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>50Km Race Walk Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>800M Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>800M Women</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Decathlon Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Discus Throw Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Discus Throw Women</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Hammer Throw Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>High Jump Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>High Jump Women</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Javelin Throw Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Javelin Throw Women</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Long Jump Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Long Jump Women</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Marathon Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Pole Vault Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Shot Put Men</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Shot Put Women</eventType>
+        </event>
+        <event>
+            <location>Tokyo</location>
+            <year>1964</year>
+            <eventType>Triple Jump Men</eventType>
+        </event>
+    </events>
+    <locations>
+        <location>Rio</location>
+        <location>Beijing</location>
+        <location>Sydney</location>
+        <location>Barcelona</location>
+        <location>Los Angeles</location>
+        <location>Montreal</location>
+        <location>Mexico</location>
+        <location>Rome</location>
+        <location>Helsinki</location>
+        <location>Berlin</location>
+        <location>Amsterdam</location>
+        <location>Antwerp</location>
+        <location>London</location>
+        <location>Athens</location>
+        <location>Atlanta</location>
+        <location>Moscow</location>
+        <location>Munich</location>
+        <location>Tokyo</location>
+        <location>Melbourne / Stockholm</location>
+        <location>Paris</location>
+        <location>Stockholm</location>
+        <location>St Louis</location>
+        <location>Seoul</location>
+    </locations>
+</olympic>

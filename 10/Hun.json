@@ -1,0 +1,213 @@
+[
+  {
+    "name": "Zoltan KOVAGO",
+    "medals": {
+      "B": [  ],
+      "G": [  ],
+      "S": [ { "medal":"Silver", "result":67.04 } ]
+    }
+  },
+  {
+    "name": "József KOVÁCS",
+    "medals": {
+      "B": [  ],
+      "G": [  ],
+      "S": [ { "medal":"Silver", "result":"28:52.4" } ]
+    }
+  },
+  {
+    "name": "Krisztian PARS",
+    "medals": {
+      "B": [  ],
+      "G": [ { "medal":"Gold", "result":80.59 } ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "József CSERMÁK",
+    "medals": {
+      "B": [  ],
+      "G": [ { "medal":"Gold", "result":60.34 } ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Antal RÓKA",
+    "medals": {
+      "B": [ { "medal":"Bronze", "result":"4:31:27.2" } ],
+      "G": [  ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Gyula ZSIVÓTZKY",
+    "medals": {
+      "B": [  ],
+      "G": [  ],
+      "S": [
+        { "medal":"Silver", "result":65.79 },
+        { "medal":"Silver", "result":69.09 }
+      ]
+    }
+  },
+  {
+    "name": "Alajos SZOKOLYI",
+    "medals": {
+      "B": [ { "medal":"Bronze", "result":12.6 } ],
+      "G": [  ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Marta ANTAL-RUDAS",
+    "medals": {
+      "B": [  ],
+      "G": [  ],
+      "S": [ { "medal":"Silver", "result":58.27 } ]
+    }
+  },
+  {
+    "name": "Jolan KLEIBER-KONTSEK",
+    "medals": {
+      "B": [ { "medal":"Bronze", "result":54.9 } ],
+      "G": [  ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Ödön FÖLDESSY",
+    "medals": {
+      "B": [ { "medal":"Bronze", "result":7.3 } ],
+      "G": [  ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Angela NEMETH",
+    "medals": {
+      "B": [  ],
+      "G": [ { "medal":"Gold", "result":60.36 } ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Balázs KISS",
+    "medals": {
+      "B": [  ],
+      "G": [ { "medal":"Gold", "result":81.24 } ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Mor KOVACS",
+    "medals": {
+      "B": [ { "medal":"Bronze", "result":55.5 } ],
+      "G": [  ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "István RÓZSAVÖLGYI",
+    "medals": {
+      "B": [ { "medal":"Bronze", "result":"3:39.2" } ],
+      "G": [  ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Ibolya CSÁK",
+    "medals": {
+      "B": [  ],
+      "G": [ { "medal":"Gold", "result":1.6 } ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Gergely KULCSÁR",
+    "medals": {
+      "B": [ { "medal":"Bronze", "result":78.57 } ],
+      "G": [  ],
+      "S": [ { "medal":"Silver", "result":82.32 } ]
+    }
+  },
+  {
+    "name": "Antal KISS",
+    "medals": {
+      "B": [  ],
+      "G": [  ],
+      "S": [ { "medal":"Silver", "result":"4:30:17.0" } ]
+    }
+  },
+  {
+    "name": "Imre NÉMETH",
+    "medals": {
+      "B": [ { "medal":"Bronze", "result":57.74 } ],
+      "G": [  ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Nándor DÁNI",
+    "medals": {
+      "B": [  ],
+      "G": [  ],
+      "S": [ { "medal":"Silver", "result":"2:11.8" } ]
+    }
+  },
+  {
+    "name": "Vilmos VARJU",
+    "medals": {
+      "B": [ { "medal":"Bronze", "result":19.39 } ],
+      "G": [  ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Sándor ROZSNYÓI",
+    "medals": {
+      "B": [  ],
+      "G": [  ],
+      "S": [ { "medal":"Silver", "result":"8:43.6" } ]
+    }
+  },
+  {
+    "name": "Lajos GÖNCZY",
+    "medals": {
+      "B": [ { "medal":"Bronze", "result":1.75 } ],
+      "G": [  ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Anita MARTON",
+    "medals": {
+      "B": [ { "medal":"Bronze", "result":19.87 } ],
+      "G": [  ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "István SOMODI",
+    "medals": {
+      "B": [  ],
+      "G": [  ],
+      "S": [ { "medal":"Silver", "result":1.88 } ]
+    }
+  },
+  {
+    "name": "Miklos NEMETH",
+    "medals": {
+      "B": [  ],
+      "G": [ { "medal":"Gold", "result":94.58 } ],
+      "S": [  ]
+    }
+  },
+  {
+    "name": "Gyula KELLNER",
+    "medals": {
+      "B": [ { "medal":"Bronze", "result":"3-06:35" } ],
+      "G": [  ],
+      "S": [  ]
+    }
+  }
+]
